@@ -1,0 +1,8 @@
+C:\Users\z004eeyk\source\repos\AZ-204\azureSolution\demoWebApp01\obj\Debug\netcoreapp3.1\demoWebApp01.csproj.AssemblyReference.cache
+C:\Users\z004eeyk\source\repos\AZ-204\azureSolution\demoWebApp01\obj\Debug\netcoreapp3.1\demoWebApp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004eeyk\source\repos\AZ-204\azureSolution\demoWebApp01\obj\Debug\netcoreapp3.1\demoWebApp01.AssemblyInfoInputs.cache
+C:\Users\z004eeyk\source\repos\AZ-204\azureSolution\demoWebApp01\obj\Debug\netcoreapp3.1\demoWebApp01.AssemblyInfo.cs
+C:\Users\z004eeyk\source\repos\AZ-204\azureSolution\demoWebApp01\obj\Debug\netcoreapp3.1\demoWebApp01.csproj.CoreCompileInputs.cache
+C:\Users\z004eeyk\source\repos\AZ-204\azureSolution\demoWebApp01\obj\Debug\netcoreapp3.1\demoWebApp01.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\z004eeyk\source\repos\AZ-204\azureSolution\demoWebApp01\obj\Debug\netcoreapp3.1\demoWebApp01.RazorAssemblyInfo.cache
+C:\Users\z004eeyk\source\repos\AZ-204\azureSolution\demoWebApp01\obj\Debug\netcoreapp3.1\demoWebApp01.RazorAssemblyInfo.cs
